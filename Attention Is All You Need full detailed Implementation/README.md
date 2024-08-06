@@ -1,1 +1,1 @@
-
+The notebook was created in a kaggle environment. Please refer to the [kaggle notebook](https://www.kaggle.com/code/hamzamohiuddin/transformer-attention-is-all-you-need-nmt). The dataset is used is also been provided there. Thanks.
