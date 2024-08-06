@@ -1,1 +1,2 @@
-The notebook was created in a kaggle environment. Please refer to the [kaggle notebook](https://www.kaggle.com/code/hamzamohiuddin/transformer-attention-is-all-you-need-nmt). The dataset is used is also been provided there. Thanks.
+The notebook was created in a kaggle environment. Please refer to the [kaggle notebook](https://www.kaggle.com/code/hamzamohiuddin/transformer-attention-is-all-you-need-nmt). The dataset is used is also been provided there. 
+This notebook is an implementation of the paper,  "Attention Is All You Need". It contains the full implementation. It contains Shared target-source vocabulary, Three-way weight tying, padding, masking, causal masking, full Transformer architecture, as well as training code. Please refer to it. Thanks.
